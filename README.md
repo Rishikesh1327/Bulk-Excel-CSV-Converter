@@ -52,7 +52,7 @@ It works directly with **Google Drive** and is beginner-friendly.
 
 ---
 
-# 5️⃣ requirements.txt (COPY–PASTE)
+# 5️⃣ requirements.txt
 
 ```txt
 pandas

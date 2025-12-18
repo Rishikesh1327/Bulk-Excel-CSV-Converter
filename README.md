@@ -58,7 +58,7 @@ It works directly with **Google Drive** and is beginner-friendly.
 
 ---
 
-# 5️⃣ requirements.txt
+# 🔹 Requirements
 
 ```txt
 pandas
